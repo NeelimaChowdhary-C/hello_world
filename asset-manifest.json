@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/hello_world/static/css/main.2cce8147.chunk.css",
-    "main.js": "/hello_world/static/js/main.23d87473.chunk.js",
-    "main.js.map": "/hello_world/static/js/main.23d87473.chunk.js.map",
-    "runtime~main.js": "/hello_world/static/js/runtime~main.dbc50f68.js",
-    "runtime~main.js.map": "/hello_world/static/js/runtime~main.dbc50f68.js.map",
-    "static/js/2.b41502e9.chunk.js": "/hello_world/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/hello_world/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/hello_world/index.html",
-    "precache-manifest.fe556bbb22a94470142b9f3a6023078c.js": "/hello_world/precache-manifest.fe556bbb22a94470142b9f3a6023078c.js",
-    "service-worker.js": "/hello_world/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/hello_world/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/hello_world/static/media/logo.5d5d9eef.svg"
+    "main.css": "/MyFirstReact/static/css/main.34de6062.chunk.css",
+    "main.js": "/MyFirstReact/static/js/main.dbc00498.chunk.js",
+    "main.js.map": "/MyFirstReact/static/js/main.dbc00498.chunk.js.map",
+    "runtime~main.js": "/MyFirstReact/static/js/runtime~main.a7dd41fd.js",
+    "runtime~main.js.map": "/MyFirstReact/static/js/runtime~main.a7dd41fd.js.map",
+    "static/js/2.6408f43b.chunk.js": "/MyFirstReact/static/js/2.6408f43b.chunk.js",
+    "static/js/2.6408f43b.chunk.js.map": "/MyFirstReact/static/js/2.6408f43b.chunk.js.map",
+    "index.html": "/MyFirstReact/index.html",
+    "precache-manifest.a6b4b24b975fb3fec39110cc725f5f52.js": "/MyFirstReact/precache-manifest.a6b4b24b975fb3fec39110cc725f5f52.js",
+    "service-worker.js": "/MyFirstReact/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/MyFirstReact/static/css/main.34de6062.chunk.css.map"
   }
 }
